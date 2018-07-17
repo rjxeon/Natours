@@ -28,9 +28,6 @@ body {
   color: transparent;
   letter-spacing: .2rem;
   transition: all .2s; }
-  .heading-secondary:hover {
-    transform: skewY(1deg) skewX(1deg) scale(1.1);
-    text-shadow: 0.5rem 1rem 2rem rgba(0, 0, 0, 0.2); }
 
 .heading-tertiary {
   font-size: 1.6rem;
